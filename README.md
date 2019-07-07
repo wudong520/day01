@@ -9,7 +9,7 @@
     <title>Document Day01</title>
 </head>
 <body style="height:3000px;">
-    <!--  strong 加粗 -->
+    <!--  strong 加粗字体 -->
     <!--  src 图片地址-->
     <img src="http://www.baidu.com/img/bd_logo1.png" alt="百度logo">
     <strong>123</strong>
