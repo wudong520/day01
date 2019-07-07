@@ -1,5 +1,5 @@
 # day01
-练习
+practicing
 <!DOCTYPE html>
 <html lang="en">
 <head>
